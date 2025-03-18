@@ -10,11 +10,17 @@ body {
 	color: #202030;
 	background-color: #f8f8fc;
 }
+.cv-name {
+  font-family: "Zain", sans-serif;
+  font-weight: 1200;
+  font-style: normal;
+	color:white;
+}
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #F6BFC0;
 }
 
 .resume-main {
